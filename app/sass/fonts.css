@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Romul';
+  src: url('/fonts/Romul.woff') format('woff'),
+       url('/fonts/Romul.ttf') format('truetype'),
+       url('/fonts/Romul.svg#/fonts/Romul') format('svg'),
+       url('/fonts/Romul.woff2') format('woff2'),
+       url('/fonts/Romul.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Adagioscript';
+  src: url('/fonts/Adagioscript.woff') format('woff'),
+       url('/fonts/Adagioscript.ttf') format('truetype'),
+       url('/fonts/Adagioscript.svg#/fonts/Adagioscript') format('svg'),
+       url('/fonts/Adagioscript.woff2') format('woff2'),
+       url('/fonts/Adagioscript.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MADEEvolveSans';
+  src: url('/fonts/MADEEvolveSans-Light.eot');
+  src: url('/fonts/MADEEvolveSans-Light.woff2') format('woff2'),
+       url('/fonts/MADEEvolveSans-Light.woff') format('woff'),
+       url('/fonts/MADEEvolveSans-Light.ttf') format('truetype'),
+       url('/fonts/MADEEvolveSans-Light.svg#/fonts/MADEEvolveSans-Light') format('svg'),
+       url('/fonts/MADEEvolveSans-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MADEEvolveSans';
+  src: url('/fonts/MADEEvolveSans.eot');
+  src: url('/fonts/MADEEvolveSans.woff2') format('woff2'),
+       url('/fonts/MADEEvolveSans.woff') format('woff'),
+       url('/fonts/MADEEvolveSans.ttf') format('truetype'),
+       url('/fonts/MADEEvolveSans.svg#/fonts/MADEEvolveSans') format('svg'),
+       url('/fonts/MADEEvolveSans.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
